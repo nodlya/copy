@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FieldGeneration.exe
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FieldGeneration.deps.json
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FieldGeneration.runtimeconfig.json
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FieldGeneration.runtimeconfig.dev.json
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FieldGeneration.dll
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FieldGeneration.pdb
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.AssemblyInfo.cs
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.dll
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.pdb
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FieldGeneration.genruntimeconfig.cache

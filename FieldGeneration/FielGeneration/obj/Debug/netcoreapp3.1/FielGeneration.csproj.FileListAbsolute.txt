@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FielGeneration.exe
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FielGeneration.deps.json
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FielGeneration.runtimeconfig.json
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FielGeneration.runtimeconfig.dev.json
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FielGeneration.dll
+C:\Users\user\source\repos\FielGeneration\FielGeneration\bin\Debug\netcoreapp3.1\FielGeneration.pdb
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.AssemblyInfo.cs
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.dll
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.pdb
+C:\Users\user\source\repos\FielGeneration\FielGeneration\obj\Debug\netcoreapp3.1\FielGeneration.genruntimeconfig.cache
